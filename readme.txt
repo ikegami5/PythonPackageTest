@@ -1,0 +1,2 @@
+readme.txtがあるディレクトリにpathを通す
+
