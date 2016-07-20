@@ -1,2 +1,2 @@
-readme.txtがあるディレクトリにpathを通す
+readme.txtがあるディレクトリにモジュールパスを通す
 
