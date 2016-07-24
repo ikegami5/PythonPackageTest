@@ -7,3 +7,4 @@ class Point(object):
 
 	def __str__(self):
 		return "Point(" + str(self.x) + ", " + str(self.y) + ")"
+
